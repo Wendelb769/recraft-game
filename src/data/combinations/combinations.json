@@ -1,0 +1,6 @@
+{
+    "garrafa-pet+tesoura": "tiras-pet",
+    "tiras-pet+cola": "cerdas-recicladas",
+    "cerdas-recicladas+garrafa-pet": "vassoura-pet",
+    "jornal+cola": "papel-machê"
+}
