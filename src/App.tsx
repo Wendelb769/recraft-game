@@ -1,11 +1,7 @@
-function app(){
-  return (
-    <div className= "min-h-screen bg-slate-900 flex items-center justify-center">
-      <h1 className= "text-5xl font-bold text-green-400">
-        REcraft
-      </h1>
-    </div>
-  )
+import { Home } from "./pages/Home"
+
+function App() {
+  return <Home />
 }
 
-export default app;
+export default App

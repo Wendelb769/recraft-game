@@ -1,0 +1,39 @@
+[
+    {
+        "id": "garrafa-pet",
+        "name": "Garrafa PET",
+        "category": "residuo"
+    },
+
+    {
+        "id": "jornal",
+        "name": "Jornal",
+        "category": "residuo"
+    },
+
+    {
+        "id": "papelao",
+        "name": "Papelão",
+        "category": "residuo"
+    },
+
+    {
+        "id": "tesoura",
+        "name": "Tesoura",
+        "category": "ferramenta"
+    },
+    
+    {
+        "id": "cola",
+        "name": "Cola",
+        "category": "ferramenta"
+    }, 
+    
+    {
+        "id": "tinta",
+        "name": "Tinta",
+        "category": "ferramenta"
+    }
+
+
+]
